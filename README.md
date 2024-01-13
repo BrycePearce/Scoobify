@@ -19,3 +19,10 @@ To load the extension into Firefox, perform the following steps:
 2. Click on **Load Temporary Add-on**.
 3. Browse to the folder where you unzipped the project and select the `manifest.json` file.
 4. Voila! The extension is now loaded into Firefox.
+
+## Open the project in VS Code so you can modify it
+
+1. Open VS code -> file -> open folder -> select the project
+2. Make any changes!
+3. After making changes, go back to `about:debugging#/runtime/this-firefox`
+4. In the Temporary Extensions section, click reload to load your changes. Or click Remove to remove the extension!
