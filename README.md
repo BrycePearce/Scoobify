@@ -1,4 +1,4 @@
-# 🔎🐕👻👩🏼 Scoob firefox exntension 🔎🐕👻👩🏼‍🦰
+# 🔎🐕👻👩🏼 Scoobifier Firefox Extension 🔎🐕👻👩🏼‍🦰
 
 This guide is part of a fun, quick project to demonstrate how easy it is to create a Firefox extension. Follow these steps to get it up and running.
 
