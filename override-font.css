@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "ScoobyFont";
+  src: url("./fonts/scoobydoo.ttf") format("truetype");
+}
+
+/* replace all text containing elements with the scoob font */
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+span,
+a {
+  font-family: "ScoobyFont", sans-serif !important;
+}

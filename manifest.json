@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Hello World",
+    "version": "1.0",
+    "description": "A 'Hello World' Firefox extension. Let's do some scoobtastic stuff!",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": ["override-font.css"]
+        }
+    ],
+    "web_accessible_resources": [
+        "fonts/scoobydoo.ttf"
+    ]
+}
